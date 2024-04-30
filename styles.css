@@ -1,3 +1,11 @@
-.title {
-    background-color: blue;
+html {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.recipe-nav {
+    margin: 10px;
+    padding: 5px;
+    border: 1px;
+    background-color: lightcoral;
 }
